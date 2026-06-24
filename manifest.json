@@ -1,0 +1,8 @@
+{
+  "product": "MyApp",
+  "version": "1.0.1",
+  "packageUrl": "https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/updates/releases/1.0.1/MyApp-1.0.1.zip",
+  "sha256": "A4235218D5DE46800B151378249C7FBA806C3DFF2CF7E7CF692C2239952FA044",
+  "mandatory": false,
+  "releaseNotes": "Test update package hosted on GitHub Pages."
+}
